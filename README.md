@@ -26,7 +26,7 @@ Built with the [Agentivity React SDK](https://github.com/agentivity-labs/agentiv
 - **Widgets in the chat.** The coaches name exercises from a catalogue, and the app draws them in 3D. Plans, meals, progress and choices also come as widgets, not as walls of text.
 - **A conversation instead of forms.** Questions, changes and "the machine is taken" all go through the team.
 - **Classic screens where they work better.** Home, the plan, the session runner, food and progress are plain screens that read what the team built. Each one opens the chat with its own context.
-- **You approve every change.** A change comes as a card that shows what was there and what replaces it. The plan is updated only after you approve.
+- **You approve every change.** A change comes as a card that shows what was there and what replaces it. The plan is updated only after you approve, except a swap during a session, where you pick the replacement yourself.
 - **Agents stay inside a frame.** The coaches pick exercises only from the catalogue of 32. An exercise outside it cannot appear.
 
 ## The team
@@ -45,7 +45,7 @@ The coaches come from the **Momentum Coaches** Template:
 
 ### 1. Get the coach team
 
-You need an Agentivity workspace with a connection to an AI model. Import the [Momentum Coaches Template](https://synergi.agentivity.io/templates/momentum-coaches) into it (**Templates > Import from file**). It brings the five coaches and the catalogue of 32 exercises. Note the id of the imported team.
+You need an Agentivity workspace with a connection to an AI model. Import the [Momentum Coaches Template](https://synergi.agentivity.io/templates/momentum-coaches) into it (**Templates > Import from file**). It brings the five coaches and the catalogue of 32 exercises. Note the id of the imported team (open the team in the Studio and copy the ID at the top of its **Info** panel).
 
 ### 2. Get the code
 
@@ -59,19 +59,30 @@ git clone https://github.com/agentivity-labs/agentivity_sdk_react.git
 git clone https://github.com/agentivity-labs/agentivity_sdk_showcase_coach.git
 ```
 
-### 3. Configure
+### 3. Build the SDK
+
+The SDK is not on npm yet, so build it once from its folder:
+
+```bash
+cd agentivity_sdk_react
+npm install
+npm run build
+cd ../agentivity_sdk_showcase_coach
+```
+
+### 4. Configure
 
 Copy `.env.example` to `.env.local` and fill it in:
 
 ```
 VITE_AGENTIVITY_BASE_URL=<your workspace URL>
 VITE_COACH_TEAM_ID=<the id of the imported team>
-VITE_AGENTIVITY_API_KEY=<a web page key (agp_...), only if your workspace asks to sign in>
+VITE_AGENTIVITY_API_KEY=<a key for a website (agp_...), only if your workspace asks to sign in>
 ```
 
-Use a **web page key** (`agp_…`), which is limited to the sites you list. Never put a secret key (`agv_…`) in a web app: anything in `.env.local` ends up in the browser.
+Use a **Key for a website** (`agp_…`), which is limited to the sites you list. When you create it, list `http://localhost:5173` as a site while you develop. Never put a secret key (`agv_…`) in a web app: anything in `.env.local` ends up in the browser.
 
-### 4. Start
+### 5. Start
 
 ```bash
 npm install
