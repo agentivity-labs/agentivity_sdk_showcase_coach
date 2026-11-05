@@ -1,0 +1,1712 @@
+{
+ "EX": {
+  "plank": {
+   "n": "Plank",
+   "m": "Core",
+   "palm": 1,
+   "mat": 1,
+   "line": 1,
+   "w": "arm",
+   "cue": [
+    "Hands under the shoulders",
+    "Squeeze glutes and belly",
+    "Hold, breathe, keep the hips level"
+   ],
+   "f": [
+    {
+     "hx": 124,
+     "hy": 120,
+     "t": 74,
+     "n": 12,
+     "hfx": 170,
+     "hfy": 148.5,
+     "hb": 0,
+     "ffx": 70,
+     "ffy": 150
+    },
+    {
+     "hx": 124,
+     "hy": 119,
+     "t": 74,
+     "n": 14,
+     "hfx": 170,
+     "hfy": 148.5,
+     "hb": 0,
+     "ffx": 70,
+     "ffy": 150
+    }
+   ]
+  },
+  "rdl": {
+   "n": "Romanian deadlift",
+   "m": "Back, legs",
+   "prop": "bb",
+   "w": "leg",
+   "cue": [
+    "Soft knees, they barely bend",
+    "Push the hips back, bar close to the legs",
+    "Stop when you feel the hamstrings, then stand"
+   ],
+   "f": [
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 2,
+     "n": 0,
+     "hfx": 164,
+     "hfy": 94,
+     "hb": 0,
+     "es": 1,
+     "grip": 0.08,
+     "ffx": 150,
+     "ffy": 150
+    },
+    {
+     "hx": 130,
+     "hy": 88,
+     "t": 72,
+     "n": 12,
+     "hfx": 166,
+     "hfy": 112,
+     "hb": 0,
+     "es": 1,
+     "grip": 0.08,
+     "ffx": 150,
+     "ffy": 150
+    }
+   ]
+  },
+  "machinepress": {
+   "n": "Machine chest press",
+   "m": "Chest",
+   "prop": "bar",
+   "seat": 118,
+   "back": 1,
+   "w": "arm",
+   "cue": [
+    "Back flat against the pad",
+    "Press the handles forward",
+    "Return slowly, stop before the stack rests"
+   ],
+   "f": [
+    {
+     "hx": 147,
+     "hy": 100,
+     "t": -2,
+     "n": 0,
+     "hfx": 172,
+     "hfy": 52,
+     "hb": 0,
+     "es": 2,
+     "grip": 0.14,
+     "ffx": 176,
+     "ffy": 150,
+     "fbx": 172
+    },
+    {
+     "hx": 147,
+     "hy": 100,
+     "t": -2,
+     "n": 0,
+     "hfx": 198,
+     "hfy": 52,
+     "hb": 0,
+     "es": 2,
+     "grip": 0.1,
+     "ffx": 176,
+     "ffy": 150,
+     "fbx": 172
+    }
+   ]
+  },
+  "rope": {
+   "n": "Jump rope",
+   "m": "Cardio",
+   "prop": "rope",
+   "saw": 1,
+   "dur": 640,
+   "w": "leg",
+   "cue": [
+    "Stand tall, shoulders loose, feet under the hips",
+    "Land on the balls of the feet, knees soft",
+    "Small quick hops, the wrists turn the rope"
+   ],
+   "f": [
+    {
+     "hx": 151,
+     "hy": 83.3,
+     "t": 1,
+     "n": 0,
+     "hfx": 163,
+     "hfy": 91,
+     "hb": 0,
+     "es": 1,
+     "grip": 0.2,
+     "heel": 0.5,
+     "ffx": 151,
+     "ffy": 150,
+     "fbx": 151
+    },
+    {
+     "hx": 151,
+     "hy": 79.8,
+     "t": 0.5,
+     "n": 0,
+     "hfx": 163,
+     "hfy": 88,
+     "hb": 0,
+     "es": 1,
+     "grip": 0.2,
+     "heel": 0.85,
+     "ffx": 151,
+     "ffy": 150,
+     "fbx": 151
+    },
+    {
+     "hx": 151,
+     "hy": 76.5,
+     "t": 1,
+     "n": 0,
+     "hfx": 163,
+     "hfy": 85.5,
+     "hb": 0,
+     "es": 1,
+     "grip": 0.2,
+     "heel": 0.9,
+     "ffx": 151,
+     "ffy": 147,
+     "fbx": 151,
+     "fby": 147
+    }
+   ]
+  },
+  "swing": {
+   "n": "Kettlebell swing",
+   "m": "Glutes",
+   "prop": "kb",
+   "w": "leg",
+   "cue": [
+    "Hinge at the hips, flat back",
+    "Drive the hips forward",
+    "Arms stay long, the hips do the work"
+   ],
+   "f": [
+    {
+     "hx": 132,
+     "hy": 98,
+     "t": 58,
+     "n": 10,
+     "hfx": 162,
+     "hfy": 112,
+     "hb": 0,
+     "es": 1,
+     "grip": -0.17,
+     "ws": 9,
+     "ffx": 150,
+     "ffy": 150
+    },
+    {
+     "hx": 138,
+     "hy": 90,
+     "t": 32,
+     "n": 4,
+     "hfx": 192,
+     "hfy": 96,
+     "hb": 0,
+     "es": 1,
+     "grip": -0.16,
+     "ws": 9,
+     "ffx": 150,
+     "ffy": 150
+    },
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": -3,
+     "hfx": 194,
+     "hfy": 50,
+     "hb": 0,
+     "es": 1,
+     "grip": -0.15,
+     "ws": 9,
+     "ffx": 150,
+     "ffy": 150
+    }
+   ]
+  },
+  "bandrow": {
+   "n": "Band row",
+   "m": "Back",
+   "prop": "band",
+   "ax": 236,
+   "ay": 1.05,
+   "w": "arm",
+   "cue": [
+    "Band fixed at chest height",
+    "Pull your elbows back",
+    "Let the band return slowly"
+   ],
+   "f": [
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 8,
+     "hfx": 192,
+     "hfy": 64,
+     "hb": 0,
+     "es": 1,
+     "grip": 0.02,
+     "ffx": 162,
+     "ffy": 150,
+     "fbx": 138
+    },
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 3,
+     "hfx": 168,
+     "hfy": 70,
+     "hb": 0,
+     "es": 1,
+     "grip": 0.02,
+     "ffx": 162,
+     "ffy": 150,
+     "fbx": 138
+    }
+   ]
+  },
+  "stepup": {
+   "n": "Box step-up",
+   "m": "Legs",
+   "prop": "box",
+   "bx": 190,
+   "w": "leg",
+   "cue": [
+    "Whole foot on the box",
+    "Push through that heel",
+    "Step down with control"
+   ],
+   "f": [
+    {
+     "hx": 152,
+     "hy": 84,
+     "t": 3,
+     "aF": 5,
+     "fF": 10,
+     "ffx": 154,
+     "ffy": 150,
+     "fbx": 150,
+     "fby": 150
+    },
+    {
+     "hx": 152,
+     "hy": 84,
+     "t": 6,
+     "aF": 6,
+     "fF": 12,
+     "ffx": 168,
+     "ffy": 108,
+     "fbx": 150,
+     "fby": 150
+    },
+    {
+     "hx": 157,
+     "hy": 90,
+     "t": 24,
+     "n": -6,
+     "aF": 12,
+     "fF": 18,
+     "ffx": 186,
+     "ffy": 123,
+     "fbx": 150,
+     "fby": 150
+    },
+    {
+     "hx": 180,
+     "hy": 80,
+     "t": 22,
+     "n": -4,
+     "aF": 10,
+     "fF": 14,
+     "ffx": 186,
+     "ffy": 123,
+     "fbx": 156,
+     "fby": 146
+    },
+    {
+     "hx": 182,
+     "hy": 68,
+     "t": 10,
+     "aF": 8,
+     "fF": 12,
+     "ffx": 186,
+     "ffy": 123,
+     "fbx": 174,
+     "fby": 108
+    },
+    {
+     "hx": 186,
+     "hy": 62,
+     "t": 4,
+     "aF": 8,
+     "fF": 12,
+     "ffx": 186,
+     "ffy": 123,
+     "fbx": 182,
+     "fby": 123
+    }
+   ]
+  },
+  "sitstand": {
+   "n": "Sit to stand",
+   "m": "Legs",
+   "prop": "chair",
+   "px": 80,
+   "w": "leg",
+   "cue": [
+    "Sit tall, feet flat under your knees",
+    "Lean forward until your weight is on your feet",
+    "Stand up through the heels, then sit back slowly"
+   ],
+   "f": [
+    {
+     "hx": 104,
+     "hy": 98,
+     "t": 4,
+     "aF": 70,
+     "fF": 82,
+     "ffx": 130,
+     "ffy": 150
+    },
+    {
+     "hx": 114,
+     "hy": 97,
+     "t": 38,
+     "n": -12,
+     "aF": 70,
+     "fF": 82,
+     "ffx": 130,
+     "ffy": 150
+    },
+    {
+     "hx": 122,
+     "hy": 93,
+     "t": 44,
+     "n": -14,
+     "aF": 66,
+     "fF": 80,
+     "ffx": 130,
+     "ffy": 150
+    },
+    {
+     "hx": 130,
+     "hy": 83,
+     "t": 2,
+     "aF": 40,
+     "fF": 60,
+     "ffx": 130,
+     "ffy": 150
+    }
+   ]
+  },
+  "incline": {
+   "n": "Incline push-up",
+   "m": "Chest",
+   "prop": "chair",
+   "px": 165,
+   "palm": 1,
+   "line": 1,
+   "w": "arm",
+   "cue": [
+    "Hands on a sturdy table, under the shoulders",
+    "Body in one straight line",
+    "Lower your chest, press back up"
+   ],
+   "f": [
+    {
+     "hx": 144,
+     "hy": 106,
+     "t": 48,
+     "n": 8,
+     "hfx": 178,
+     "hfy": 110,
+     "hb": 0,
+     "ffx": 102,
+     "ffy": 150,
+     "es": 1
+    },
+    {
+     "hx": 147,
+     "hy": 109,
+     "t": 56,
+     "n": 6,
+     "hfx": 178,
+     "hfy": 110,
+     "hb": 0,
+     "ffx": 102,
+     "ffy": 150,
+     "es": 1
+    }
+   ]
+  },
+  "dbbench": {
+   "n": "Dumbbell bench press",
+   "m": "Chest",
+   "prop": "db",
+   "lie": 0.45,
+   "flat": [
+    125,
+    120
+   ],
+   "w": "arm",
+   "cue": [
+    "Dumbbells over the chest, feet flat",
+    "Lower to the sides of the chest",
+    "Press up, do not clash the weights"
+   ],
+   "f": [
+    {
+     "nz": 112,
+     "t": -90,
+     "hfx": 116,
+     "hfy": 84,
+     "hb": 0,
+     "es": 3,
+     "grip": 0.16,
+     "ffx": 180,
+     "ffy": 150
+    },
+    {
+     "nz": 112,
+     "t": -90,
+     "hfx": 120,
+     "hfy": 102,
+     "hb": 0,
+     "es": 3,
+     "grip": 0.3,
+     "ffx": 180,
+     "ffy": 150
+    }
+   ]
+  },
+  "backsquat": {
+   "n": "Back squat",
+   "m": "Legs",
+   "prop": "bb",
+   "rack": 1,
+   "w": "leg",
+   "cue": [
+    "Bar across the upper back",
+    "Sit down between the hips, chest up",
+    "Drive the floor away"
+   ],
+   "f": [
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 6,
+     "n": -4,
+     "hb": 0,
+     "es": 3,
+     "grip": 0.3,
+     "hfx": 150,
+     "hfy": 40,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    },
+    {
+     "hx": 134,
+     "hy": 108,
+     "t": 48,
+     "n": -30,
+     "hb": 0,
+     "es": 3,
+     "grip": 0.3,
+     "hfx": 150,
+     "hfy": 40,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    }
+   ]
+  },
+  "bbrow": {
+   "n": "Barbell row",
+   "m": "Back",
+   "prop": "bb",
+   "w": "arm",
+   "cue": [
+    "Hinge at the hips, flat back",
+    "Pull the bar to your belly",
+    "Lower it under control"
+   ],
+   "f": [
+    {
+     "hx": 134,
+     "hy": 96,
+     "t": 58,
+     "n": 14,
+     "hfx": 162,
+     "hfy": 120,
+     "hb": 0,
+     "es": 1,
+     "grip": 0.12,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    },
+    {
+     "hx": 134,
+     "hy": 96,
+     "t": 58,
+     "n": 14,
+     "hfx": 152,
+     "hfy": 100,
+     "hb": 0,
+     "es": 1,
+     "grip": 0.12,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    }
+   ]
+  },
+  "legpress": {
+   "n": "Leg press",
+   "m": "Legs",
+   "seat": 118,
+   "back": 1,
+   "nog": 1,
+   "plate": 1,
+   "w": "leg",
+   "cam": [
+    6.4,
+    1.6,
+    3.6,
+    0.8,
+    0.35
+   ],
+   "cue": [
+    "Back and hips against the pad",
+    "Feet flat on the plate",
+    "Push, stop before locking the knees"
+   ],
+   "f": [
+    {
+     "hx": 142,
+     "hy": 100,
+     "t": -10,
+     "n": 6,
+     "aF": 10,
+     "fF": 30,
+     "ffx": 176,
+     "ffy": 84
+    },
+    {
+     "hx": 142,
+     "hy": 100,
+     "t": -10,
+     "n": 6,
+     "aF": 10,
+     "fF": 30,
+     "ffx": 200,
+     "ffy": 88
+    }
+   ]
+  },
+  "legext": {
+   "n": "Leg extension",
+   "m": "Legs",
+   "seat": 118,
+   "back": 1,
+   "nog": 1,
+   "roll": 1,
+   "w": "leg",
+   "cam": [
+    6.4,
+    1.6,
+    3.6,
+    0.8,
+    0.3
+   ],
+   "cue": [
+    "Knees at the edge of the seat",
+    "Straighten the legs, no swing",
+    "Lower slowly"
+   ],
+   "f": [
+    {
+     "hx": 147,
+     "hy": 100,
+     "t": -6,
+     "n": 4,
+     "aF": 10,
+     "fF": 30,
+     "ffx": 178,
+     "ffy": 128
+    },
+    {
+     "hx": 147,
+     "hy": 100,
+     "t": -6,
+     "n": 4,
+     "aF": 10,
+     "fF": 30,
+     "ffx": 206,
+     "ffy": 100
+    }
+   ]
+  },
+  "legcurl": {
+   "n": "Seated leg curl",
+   "m": "Legs",
+   "seat": 118,
+   "back": 1,
+   "nog": 1,
+   "roll": -1,
+   "w": "leg",
+   "cam": [
+    6.4,
+    1.6,
+    3.6,
+    0.8,
+    0.3
+   ],
+   "cue": [
+    "Thighs held under the pad",
+    "Pull the heels down and back",
+    "Return slowly"
+   ],
+   "f": [
+    {
+     "hx": 147,
+     "hy": 100,
+     "t": -6,
+     "n": 4,
+     "aF": 10,
+     "fF": 30,
+     "ffx": 206,
+     "ffy": 100
+    },
+    {
+     "hx": 147,
+     "hy": 100,
+     "t": -6,
+     "n": 4,
+     "aF": 10,
+     "fF": 30,
+     "ffx": 172,
+     "ffy": 128
+    }
+   ]
+  },
+  "cablerow": {
+   "n": "Seated cable row",
+   "m": "Back",
+   "prop": "cable",
+   "flat": [
+    100,
+    128
+   ],
+   "pul": [
+    222,
+    96
+   ],
+   "w": "arm",
+   "cam": [
+    6.6,
+    1.7,
+    3.6,
+    0.72,
+    0.6
+   ],
+   "cue": [
+    "Sit tall, soft knees",
+    "Pull the handle to your belly",
+    "Let the shoulders go forward slowly"
+   ],
+   "f": [
+    {
+     "hx": 126,
+     "hy": 106,
+     "t": 10,
+     "n": 0,
+     "hfx": 186,
+     "hfy": 96,
+     "hb": 0,
+     "es": 1,
+     "grip": 0.03,
+     "ffx": 178,
+     "ffy": 150
+    },
+    {
+     "hx": 126,
+     "hy": 106,
+     "t": -6,
+     "n": 0,
+     "hfx": 156,
+     "hfy": 98,
+     "hb": 0,
+     "es": 1,
+     "grip": 0.03,
+     "ffx": 178,
+     "ffy": 150
+    }
+   ]
+  },
+  "curl": {
+   "n": "Biceps curl",
+   "m": "Arms",
+   "prop": "db",
+   "w": "arm",
+   "cue": [
+    "Elbows stay by your sides",
+    "Curl the weights up",
+    "Lower them slowly"
+   ],
+   "f": [
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 2,
+     "n": 0,
+     "ex": 152,
+     "ey": 63,
+     "wx": 156,
+     "wy": 87,
+     "al": 8,
+     "wl": 8,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    },
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 2,
+     "n": 0,
+     "ex": 152,
+     "ey": 63,
+     "wx": 172,
+     "wy": 48,
+     "al": 8,
+     "wl": 8,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    }
+   ]
+  },
+  "pushdown": {
+   "n": "Triceps pushdown",
+   "m": "Arms",
+   "prop": "cable",
+   "pul": [
+    200,
+    16
+   ],
+   "w": "arm",
+   "cam": [
+    6.8,
+    1.8,
+    3.8,
+    1.05,
+    0.35
+   ],
+   "cue": [
+    "Elbows pinned to your sides",
+    "Push the handle down",
+    "Let it rise to chest height"
+   ],
+   "f": [
+    {
+     "hx": 148,
+     "hy": 84,
+     "t": 6,
+     "n": 0,
+     "ex": 152,
+     "ey": 63,
+     "wx": 176,
+     "wy": 56,
+     "al": 7,
+     "wl": 3,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    },
+    {
+     "hx": 148,
+     "hy": 84,
+     "t": 6,
+     "n": 0,
+     "ex": 152,
+     "ey": 63,
+     "wx": 162,
+     "wy": 86,
+     "al": 7,
+     "wl": 3,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    }
+   ]
+  },
+  "lateral": {
+   "n": "Lateral raise",
+   "m": "Shoulders",
+   "prop": "db",
+   "w": "arm",
+   "cue": [
+    "Soft elbows, chest tall",
+    "Raise the arms to shoulder height",
+    "Lower slowly, no swing"
+   ],
+   "f": [
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 2,
+     "n": 0,
+     "ex": 152,
+     "ey": 63,
+     "wx": 153,
+     "wy": 87,
+     "al": 6,
+     "wl": 8,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    },
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 2,
+     "n": 0,
+     "ex": 152,
+     "ey": 42,
+     "wx": 153,
+     "wy": 44,
+     "al": 24,
+     "wl": 46,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    }
+   ]
+  },
+  "calf": {
+   "n": "Standing calf raise",
+   "m": "Legs",
+   "w": "leg",
+   "cue": [
+    "Stand tall, feet hip width",
+    "Rise onto the balls of the feet",
+    "Lower the heels slowly"
+   ],
+   "f": [
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 2,
+     "n": 0,
+     "aF": 6,
+     "fF": 10,
+     "heel": 0,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    },
+    {
+     "hx": 151,
+     "hy": 78,
+     "t": 2,
+     "n": 0,
+     "aF": 6,
+     "fF": 10,
+     "heel": 1,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    }
+   ]
+  },
+  "bridge": {
+   "n": "Glute bridge",
+   "m": "Glutes",
+   "mat": 1,
+   "lie": 0,
+   "w": "leg",
+   "cue": [
+    "Lie on your back, knees bent, feet flat",
+    "Press through the heels and lift the hips",
+    "Squeeze at the top, then lower slowly"
+   ],
+   "f": [
+    {
+     "nz": 112,
+     "t": -91,
+     "hfx": 172,
+     "hfy": 148,
+     "hb": 0,
+     "ffx": 184,
+     "ffy": 150
+    },
+    {
+     "nz": 112,
+     "t": -115,
+     "hfx": 172,
+     "hfy": 148,
+     "hb": 0,
+     "ffx": 184,
+     "ffy": 150
+    }
+   ]
+  },
+  "bench": {
+   "n": "Bench press",
+   "m": "Chest",
+   "prop": "bb",
+   "lie": 0.45,
+   "flat": [
+    125,
+    120
+   ],
+   "w": "arm",
+   "cue": [
+    "Shoulder blades pinched, feet flat",
+    "Lower the bar to mid chest",
+    "Press up over the shoulders"
+   ],
+   "f": [
+    {
+     "nz": 112,
+     "t": -90,
+     "hfx": 116,
+     "hfy": 82,
+     "hb": 0,
+     "es": 3,
+     "grip": 0.27,
+     "ffx": 180,
+     "ffy": 150
+    },
+    {
+     "nz": 112,
+     "t": -90,
+     "hfx": 120,
+     "hfy": 101,
+     "hb": 0,
+     "es": 3,
+     "grip": 0.27,
+     "ffx": 180,
+     "ffy": 150
+    }
+   ]
+  },
+  "row": {
+   "n": "Dumbbell row",
+   "m": "Back",
+   "prop": "dbr",
+   "w": "arm",
+   "cue": [
+    "Hinge at the hips, flat back",
+    "Pull the weight to your hip",
+    "Lower it slowly"
+   ],
+   "f": [
+    {
+     "hx": 136,
+     "hy": 96,
+     "t": 64,
+     "n": 18,
+     "aF": 0,
+     "fF": 0,
+     "aB": 0,
+     "fB": 0,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 146
+    },
+    {
+     "hx": 136,
+     "hy": 96,
+     "t": 64,
+     "n": 18,
+     "aF": -52,
+     "fF": 8,
+     "aB": 0,
+     "fB": 0,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 146
+    }
+   ]
+  },
+  "walk": {
+   "n": "Easy walk",
+   "m": "Cardio",
+   "w": "leg",
+   "cue": [
+    "A pace where you can talk",
+    "Relax the shoulders",
+    "Stop if you feel unwell"
+   ],
+   "f": [
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 4,
+     "aF": -18,
+     "fF": 0,
+     "aB": 18,
+     "fB": 30,
+     "ffx": 176,
+     "ffy": 150,
+     "fbx": 122
+    },
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 4,
+     "aF": 18,
+     "fF": 30,
+     "aB": -18,
+     "fB": 0,
+     "ffx": 122,
+     "ffy": 150,
+     "fbx": 176
+    }
+   ]
+  },
+  "squat": {
+   "n": "Goblet squat",
+   "m": "Legs",
+   "prop": "db1",
+   "w": "leg",
+   "cue": [
+    "Hold the weight at your chest",
+    "Sit between your hips",
+    "Drive up through the floor"
+   ],
+   "f": [
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 3,
+     "n": 0,
+     "hfx": 170,
+     "hfy": 60,
+     "hb": 0,
+     "es": -1,
+     "grip": -0.05,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    },
+    {
+     "hx": 134,
+     "hy": 110,
+     "t": 46,
+     "n": -14,
+     "hfx": 171,
+     "hfy": 96,
+     "hb": 0,
+     "es": -1,
+     "grip": -0.05,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    }
+   ]
+  },
+  "split": {
+   "n": "Split squat",
+   "m": "Legs",
+   "prop": "chair",
+   "px": 64,
+   "w": "leg",
+   "cue": [
+    "Back foot on the bench",
+    "Lower straight down, 3 seconds",
+    "Front knee stays above the ankle"
+   ],
+   "f": [
+    {
+     "hx": 148,
+     "hy": 90,
+     "t": 6,
+     "aF": 6,
+     "fF": 10,
+     "aB": -6,
+     "fB": 4,
+     "ffx": 178,
+     "ffy": 150,
+     "fbx": 92,
+     "fby": 112
+    },
+    {
+     "hx": 146,
+     "hy": 113,
+     "t": 14,
+     "aF": 12,
+     "fF": 18,
+     "aB": -2,
+     "fB": 8,
+     "ffx": 178,
+     "ffy": 150,
+     "fbx": 92,
+     "fby": 112
+    }
+   ]
+  },
+  "lunge": {
+   "n": "Reverse lunge",
+   "m": "Legs",
+   "w": "leg",
+   "cue": [
+    "Step back, lower gently",
+    "Keep your chest tall",
+    "Push back to standing"
+   ],
+   "f": [
+    {
+     "hx": 152,
+     "hy": 84,
+     "t": 3,
+     "aF": 6,
+     "fF": 12,
+     "aB": -6,
+     "fB": 6,
+     "ffx": 160,
+     "ffy": 150,
+     "fbx": 146
+    },
+    {
+     "hx": 142,
+     "hy": 108,
+     "t": 8,
+     "aF": 18,
+     "fF": 24,
+     "aB": -10,
+     "fB": 0,
+     "ffx": 166,
+     "ffy": 150,
+     "fbx": 92
+    }
+   ]
+  },
+  "pushup": {
+   "n": "Push-up",
+   "m": "Chest",
+   "palm": 1,
+   "mat": 1,
+   "line": 1,
+   "w": "arm",
+   "cue": [
+    "Hands under the shoulders",
+    "Body in one straight line",
+    "Chest down, press up"
+   ],
+   "f": [
+    {
+     "hx": 124,
+     "hy": 120,
+     "t": 74,
+     "n": 12,
+     "hfx": 170,
+     "hfy": 148.5,
+     "hb": 0,
+     "ffx": 70,
+     "ffy": 150
+    },
+    {
+     "hx": 125,
+     "hy": 129,
+     "t": 82,
+     "n": 8,
+     "hfx": 171,
+     "hfy": 148.5,
+     "hb": 0,
+     "ffx": 70,
+     "ffy": 150
+    }
+   ]
+  },
+  "deadlift": {
+   "n": "Deadlift",
+   "m": "Back, legs",
+   "prop": "bb",
+   "w": "leg",
+   "cue": [
+    "Bar over the middle of the foot, against the shins",
+    "Flat back, tight core",
+    "Stand up, keep the bar against your legs"
+   ],
+   "f": [
+    {
+     "hx": 131,
+     "hy": 106,
+     "t": 68,
+     "n": 12,
+     "hfx": 164,
+     "hfy": 128,
+     "hb": 0,
+     "es": 1,
+     "grip": 0.08,
+     "ffx": 150,
+     "ffy": 150
+    },
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 2,
+     "n": 0,
+     "hfx": 164,
+     "hfy": 94,
+     "hb": 0,
+     "es": 1,
+     "grip": 0.08,
+     "ffx": 150,
+     "ffy": 150
+    }
+   ]
+  },
+  "press": {
+   "n": "Shoulder press",
+   "m": "Shoulders",
+   "prop": "db",
+   "w": "arm",
+   "cue": [
+    "Dumbbells at shoulder height, elbows out",
+    "Press straight up",
+    "Lower with control"
+   ],
+   "f": [
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 2,
+     "n": 0,
+     "ex": 154,
+     "ey": 44,
+     "wx": 155,
+     "wy": 20,
+     "al": 22,
+     "wl": 22,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    },
+    {
+     "hx": 150,
+     "hy": 84,
+     "t": 2,
+     "n": 0,
+     "ex": 154,
+     "ey": 17,
+     "wx": 155,
+     "wy": -7,
+     "al": 9,
+     "wl": 7,
+     "ffx": 152,
+     "ffy": 150,
+     "fbx": 148
+    }
+   ]
+  },
+  "pullup": {
+   "n": "Pull-up negative",
+   "m": "Back",
+   "prop": "bar",
+   "fixbar": [
+    160,
+    3
+   ],
+   "cam": [
+    6.4,
+    1.9,
+    4.2,
+    1.4,
+    0.1
+   ],
+   "w": "arm",
+   "cue": [
+    "Jump up, chin over the bar",
+    "Lower for 5 slow seconds",
+    "Reset, do not rush"
+   ],
+   "f": [
+    {
+     "hx": 154,
+     "hy": 37,
+     "t": -12,
+     "n": 10,
+     "hfx": 160,
+     "hfy": 9,
+     "hb": 0,
+     "es": 3,
+     "grip": 0.2,
+     "ffx": 165,
+     "ffy": 98,
+     "fbx": 163,
+     "fby": 100
+    },
+    {
+     "hx": 154,
+     "hy": 54,
+     "t": -12,
+     "n": 8,
+     "hfx": 160,
+     "hfy": 9,
+     "hb": 0,
+     "es": 3,
+     "grip": 0.2,
+     "ffx": 165,
+     "ffy": 116,
+     "fbx": 163,
+     "fby": 118
+    },
+    {
+     "hx": 158,
+     "hy": 72,
+     "t": 2,
+     "n": 0,
+     "hfx": 160,
+     "hfy": 9,
+     "hb": 0,
+     "es": 3,
+     "grip": 0.2,
+     "ffx": 156,
+     "ffy": 137,
+     "fbx": 155,
+     "fby": 138
+    }
+   ]
+  },
+  "lat": {
+   "n": "Lat pulldown",
+   "m": "Back",
+   "prop": "bar",
+   "seat": 118,
+   "w": "arm",
+   "cue": [
+    "Sit tall, chest up",
+    "Pull the bar to your collarbone",
+    "Let it rise slowly"
+   ],
+   "f": [
+    {
+     "hx": 147,
+     "hy": 100,
+     "t": -6,
+     "n": 4,
+     "hfx": 160,
+     "hfy": 2,
+     "hb": 0,
+     "es": 2,
+     "grip": 0.24,
+     "ffx": 176,
+     "ffy": 150,
+     "fbx": 172
+    },
+    {
+     "hx": 147,
+     "hy": 100,
+     "t": -12,
+     "n": 0,
+     "hfx": 160,
+     "hfy": 54,
+     "hb": 0,
+     "es": 2,
+     "grip": 0.24,
+     "ffx": 176,
+     "ffy": 150,
+     "fbx": 172
+    }
+   ]
+  }
+ },
+ "MUS": {
+  "dbbench": [
+   [
+    "pec",
+    "tri"
+   ],
+   [
+    "delt"
+   ]
+  ],
+  "backsquat": [
+   [
+    "quad",
+    "glute"
+   ],
+   [
+    "ham",
+    "abs"
+   ]
+  ],
+  "bbrow": [
+   [
+    "lats",
+    "traps"
+   ],
+   [
+    "bi"
+   ]
+  ],
+  "legpress": [
+   [
+    "quad",
+    "glute"
+   ],
+   [
+    "ham"
+   ]
+  ],
+  "legext": [
+   [
+    "quad"
+   ],
+   []
+  ],
+  "legcurl": [
+   [
+    "ham"
+   ],
+   []
+  ],
+  "cablerow": [
+   [
+    "lats",
+    "traps"
+   ],
+   [
+    "bi"
+   ]
+  ],
+  "curl": [
+   [
+    "bi"
+   ],
+   []
+  ],
+  "pushdown": [
+   [
+    "tri"
+   ],
+   []
+  ],
+  "lateral": [
+   [
+    "delt"
+   ],
+   [
+    "traps"
+   ]
+  ],
+  "calf": [
+   [
+    "calf"
+   ],
+   []
+  ],
+  "bench": [
+   [
+    "pec",
+    "tri"
+   ],
+   [
+    "delt"
+   ]
+  ],
+  "bridge": [
+   [
+    "glute",
+    "ham"
+   ],
+   [
+    "abs"
+   ]
+  ],
+  "plank": [
+   [
+    "abs"
+   ],
+   [
+    "delt",
+    "glute"
+   ]
+  ],
+  "rdl": [
+   [
+    "ham",
+    "glute"
+   ],
+   [
+    "lats",
+    "traps"
+   ]
+  ],
+  "machinepress": [
+   [
+    "pec",
+    "tri"
+   ],
+   [
+    "delt"
+   ]
+  ],
+  "rope": [
+   [
+    "calf",
+    "quad"
+   ],
+   [
+    "delt"
+   ]
+  ],
+  "swing": [
+   [
+    "glute",
+    "ham"
+   ],
+   [
+    "delt",
+    "abs"
+   ]
+  ],
+  "bandrow": [
+   [
+    "lats",
+    "bi"
+   ],
+   [
+    "traps"
+   ]
+  ],
+  "stepup": [
+   [
+    "quad",
+    "glute"
+   ],
+   [
+    "calf"
+   ]
+  ],
+  "deadlift": [
+   [
+    "ham",
+    "glute",
+    "lats",
+    "traps"
+   ],
+   [
+    "quad",
+    "abs"
+   ]
+  ],
+  "squat": [
+   [
+    "quad",
+    "glute"
+   ],
+   [
+    "abs",
+    "calf"
+   ]
+  ],
+  "pushup": [
+   [
+    "pec",
+    "tri"
+   ],
+   [
+    "delt",
+    "abs"
+   ]
+  ],
+  "incline": [
+   [
+    "pec",
+    "tri"
+   ],
+   [
+    "delt"
+   ]
+  ],
+  "press": [
+   [
+    "delt",
+    "tri"
+   ],
+   [
+    "traps"
+   ]
+  ],
+  "row": [
+   [
+    "lats",
+    "bi"
+   ],
+   [
+    "traps"
+   ]
+  ],
+  "lat": [
+   [
+    "lats",
+    "bi"
+   ],
+   [
+    "traps"
+   ]
+  ],
+  "pullup": [
+   [
+    "lats",
+    "bi"
+   ],
+   [
+    "abs"
+   ]
+  ],
+  "lunge": [
+   [
+    "quad",
+    "glute"
+   ],
+   [
+    "ham",
+    "calf"
+   ]
+  ],
+  "split": [
+   [
+    "quad",
+    "glute"
+   ],
+   [
+    "ham"
+   ]
+  ],
+  "sitstand": [
+   [
+    "quad",
+    "glute"
+   ],
+   [
+    "abs"
+   ]
+  ],
+  "walk": [
+   [
+    "quad",
+    "calf"
+   ],
+   [
+    "glute"
+   ]
+  ]
+ }
+}
